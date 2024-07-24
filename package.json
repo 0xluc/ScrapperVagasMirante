@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "main": "index.js",
     "scripts": {
-        "test": "jest --passWithNoTests --silent --noStackTrace --runInBand"
+        "test": "jest --passWithNoTests --silent --noStackTrace --runInBand",
+        "start": "npx tsx src/index.ts"
     },
     "keywords": [],
     "author": "",
